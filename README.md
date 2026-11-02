@@ -1,4 +1,4 @@
-## Hi there 👋
+[![sudo sapiens badge](https://sudo-sapiens.verzmusic.workers.dev/b/mhrqpOGtbT2NIhTf.svg)](https://sudo-sapiens.verzmusic.workers.dev/verify/mhrqpOGtbT2NIhTf)
 
 <!--
 **aroncserveni/aroncserveni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
